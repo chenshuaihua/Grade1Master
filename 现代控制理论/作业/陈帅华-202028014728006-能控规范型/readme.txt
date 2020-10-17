@@ -1,0 +1,4 @@
+contriability函数 进行能控性判断
+luenberger函数  求解能控标准型，得到Ac,Bc和Cc
+
+luenberger_test1.m、luenberger_test2.m、luenberger_test3.m和luenberger_test4.m是对编写的luenberger函数进行验证。
