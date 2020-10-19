@@ -47,7 +47,7 @@
 
 2.Methods 
 
-
+![](E:\研究生\研一\上半学年\基础学术论文写作\图片\Unit3-方法.PNG)
 
 3.Results
 
@@ -57,29 +57,82 @@
 
 4.Introduction
 
-
+![](E:\研究生\研一\上半学年\基础学术论文写作\图片\Unit3-介绍.PNG)
 
 5.Discussion
 
-
-
-
+![](E:\研究生\研一\上半学年\基础学术论文写作\图片\Unit3-讨论.PNG)
 
 ## 如何撰写摘要
 
+存在很多问题
+
+->直接谈研究问题和方法
+
+->仅仅是一个发现的总结
+
+->没有结论或者不强调贡献
+
+->直接从文章草稿中copy,而没有re-write.
+
+Abstract is a mini paper.
+
+### Where to find good structure for abstract.
+
+- Journal: Author's  guidance  对于摘要的要求
+- Published paper:5-10 related papers
+- Mapping with your paper structure.
 
 
 
+- Considering space limitations of abstract(150? 200-300?300+?)
+- Abstract is difficult to write , and in most cases, ==written at the last step.==
 
+### Abstract Nature Guidelines(7 parts)
 
+![](E:\研究生\研一\上半学年\基础学术论文写作\图片\Unit3-Abstract7parts-1.PNG)
 
+![](E:\研究生\研一\上半学年\基础学术论文写作\图片\Unit3-Abstract7parts-2.PNG)
 
+5.两到三句话解释你的研究发现是怎么根以往的研究来对话的。
+
+6，7 放到一个更大的背景下，让别人理解你的研究意义。
+
+![](E:\研究生\研一\上半学年\基础学术论文写作\图片\Unit3-Abstract-4steps.PNG)
 
 ## 二级标题的魅力
 
+Heading->Subheading->Paragraph Sentence
 
+二级标题的重要性：
 
+==构思草稿阶段：梳理思路==；
 
+写的时候：==紧扣重点，前后呼应，把握写作节奏==
+
+团队内：共同作者之间最重要的是要在二级标题上一致；
+
+能构建一个清晰的论文架构；抓住重点；
+
+为寻找特定信息的读者，提供一个快速检索方式；
+
+帮助审稿人快速掌握你的论文摘要，并作出判断；
+
+让审稿人的反馈更准确定位，促进对话；
+
+完整叙述链条：引言/综述 vs 研究发现/讨论
+
+### Section—specific Subheadings
+
+Examples
+
+![](E:\研究生\研一\上半学年\基础学术论文写作\图片\Unit3-subheadings-methods-examples.PNG)
+
+在二级标题中，告诉读者你使用了什么方法（Detection/Measurement）
+
+![](E:\研究生\研一\上半学年\基础学术论文写作\图片\Unit3-subheadings-results-examples.PNG)
+
+结果中使用动词（causes  affects/inhibits/ suppresses/）
 
 
 
