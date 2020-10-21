@@ -134,6 +134,67 @@ Examples
 
 结果中使用动词（causes  affects/inhibits/ suppresses/）
 
-
-
 ## Writing in practice 写作结构的实战研讨
+
+### 1.为什么需要在摘要部分陈述背景信息？
+
+abstract is a mini-version paper.
+
+shows that you as the writer understand the context of your study.
+
+ensures that the readers understand the context of your study
+
+someone pays for your research.(know the general application)
+
+editor will let you know whether your background part is too long
+
+### 2.研究问题放置何处
+
+pay attention to these structural elements of published papers
+
+check the pdf 'Authors Instructions 'of the journal
+
+examples:
+
+a:研究问题在介绍的最后。
+
+![](E:\研究生\研一\上半学年\基础学术论文写作\图片\Unit3-研究问题放在哪儿1.PNG)
+
+
+
+b:研究问题在literature review /related work的最后
+
+![](E:\研究生\研一\上半学年\基础学术论文写作\图片\Unit3-研究问题放在哪儿2.PNG)
+
+your research→topic→review(what others do in this area )→then you address or identify some gap，然后你说这是我们的研究问题
+
+
+
+毛君：
+
+she usually presents her research questions twice in her article.
+
+第一个研究问题放在Introduction部分: general version，用于吸引读者
+
+第二个研究问题放在end of the introduction /method部分，这部分让问题更具有可操作性。
+
+![](E:\研究生\研一\上半学年\基础学术论文写作\图片\Unit3-问题的两次提出.PNG)
+
+
+
+### 3.研究结论与研究讨论之间有何差异？
+
+don't repeat introduction /results
+
+conclusion is not equal to summary.
+
+what is the NEW UNDERSTANDING in your paper?
+
+未来展望也很重要，你对未来的展望不一定能够实现，但是这个理解能够提高对一个非常复杂的机制的理解
+
+
+
+
+
+
+
