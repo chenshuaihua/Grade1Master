@@ -1,5 +1,7 @@
 [TOC]
 
+Your thinking is complex, but writing is linear.
+
 ## 4.1Logic
 
 整体逻辑：四类可选择的逻辑规律

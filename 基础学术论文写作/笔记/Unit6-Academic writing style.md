@@ -1,6 +1,6 @@
 [TOC]
 
-
+写自己的故事，然后再根据自己的故事去找参考文献。
 
 ## 1.Formal Expressions
 
@@ -42,7 +42,7 @@ Micropumps can be used in drug delivery , lab-on-a-chip analysis , and so forth-
 
 ## 3.Contractions(indicated by apostrophe ')
 
-Examples: can't  couldn't  shouldn't wouldn't  mustn't  aren't  isn't weren't
+**Examples: can't  couldn't  shouldn't wouldn't  mustn't  aren't  isn't weren't**
 
 *uncommon in original(natural) sciences publications
 
@@ -179,7 +179,25 @@ Q3:写论文很难同时兼顾内容和style，那什么样的写作习惯是最
 
 
 
+## Questions?
 
+1.carefully，在介绍你做的研究的时候，不用说carefully investigate，
+
+在介绍你的method的时候，可以说carefully(?)
+
+2.As a matter of fact, 论文中过度使用不太好，
+
+3.==that 和 why不能连用==，a large/considerable number of
+
+4.可以用we, 不要用it has been shown ，用 a previous study has shown that/ Our study have shown that,           不要过度使用。
+
+5."we can"可以用，但是要想清楚，用这个是不是会导致歧义，读者理解是否精确；不要过度使用。
+
+6.Formal  or informal 精确表达，keep it simple.
+
+7.主动语态和被动语态都能用在academic writing中，用被动语态来写以使得文章看起来更客观是上个世纪的内容了。
+
+8.it is  比it's更好
 
 
 
